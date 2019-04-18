@@ -4,3 +4,5 @@ input
 output
 .DS_Store
 output.out.dSYM
+*.o
+*.exe
