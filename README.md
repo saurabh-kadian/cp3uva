@@ -25,7 +25,7 @@ Problems listed on [Uhunt](https://uhunt.onlinejudge.org) marked under Competiti
 - [UVa 11340 - Newspaper](https://github.com/saurabh-kadian/cp3uva/blob/master/uva11340.cpp)
 - [UVa 11450 - Wedding Shopping](https://github.com/saurabh-kadian/cp3uva/blob/master/uva11450.cpp)
 - [UVa 11498 - Division of Nlogonia](https://github.com/saurabh-kadian/cp3uva/blob/master/uva11498.cpp)
-- [UVa 11507 - Bender B. Rodr´iguez ](https://github.com/saurabh-kadian/cp3uvblob/master/uva11507.cpp)
+- [UVa 11507 - Bender B. Rodr´iguez ](https://github.com/saurabh-kadian/cp3uva/blob/master/uva11507.cpp)
 - [UVa 11517 - Exact Change](https://github.com/saurabh-kadian/cp3uva/blob/master/uva11517.cpp)
 - [UVa 11559 - Event Planning](https://github.com/saurabh-kadian/cp3uva/blob/master/uva11559.cpp)
 - [UVa 11566 - Let’s Yum Cha!](https://github.com/saurabh-kadian/cp3uva/blob/master/uva11566.cpp)
