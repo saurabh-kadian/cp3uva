@@ -29,7 +29,7 @@ Problems listed on [Uhunt](https://uhunt.onlinejudge.org) marked under Competiti
 
 - [UVa 10131 - Is Bigger Smarter?](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-3/uva10131.cpp)
 - [UVa 10306 - e-Coins](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-3/uva10306.cpp)
-- [UVa 543 - Flight planner](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-3/uva10337.cpp)
+- [UVa 10337 - Flight planner](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-3/uva10337.cpp)
 - [UVa 10718 - Bit Mask](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-3/uva10718.cpp)
 - [UVa 10721 - Bar Codes](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-3/uva10721.cpp)
 - [UVa 11157 - Dynamic Frog](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-3/uva11157.cpp)
