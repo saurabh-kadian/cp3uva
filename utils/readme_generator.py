@@ -19,11 +19,10 @@ def generate_readme():
         writter.write('Problems listed on [Uhunt](https://uhunt.onlinejudge.org) marked under Competitive Programming 3, a book by Steven Halim and Felix Halim. Credit: Steven Halim, Felix Halim and team for the compilation.' + '\n')
         writter.write('\n')
         writter.write('## Links to solved problems in the repository' + '\n')
-        writter.write('\n')
         
         solutions_path = os.path.join(path, 'solutions')
         for chapter in os.listdir(solutions_path):
-            writter.write('### %s\n\n' % chapter)
+            writter.write('\n### %s\n\n' % chapter)
             for file in os.listdir(os.path.join(solutions_path, chapter)):
                 if '.cpp' in file:
                     _write_entry(writter, solutions_path, chapter, file, "//")

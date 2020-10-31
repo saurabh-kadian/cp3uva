@@ -20,11 +20,13 @@ Problems listed on [Uhunt](https://uhunt.onlinejudge.org) marked under Competiti
 - [UVa 272 - TeX Quotes](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-1/uva272.cpp)
 - [UVa 573 - The Snail](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-1/uva573.cpp)
 - [UVa 579 - ClockHands](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-1/uva579.cpp)
+
 ### Chapter-2
 
 - [UVa 10038 - Jolly Jumper](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-2/uva10038.cpp)
 - [UVa 11340 - Newspaper](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-2/uva11340.cpp)
 - [UVa 146 - ID Codes](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-2/uva146.cpp)
+
 ### Chapter-3
 
 - [UVa 10131 - Is Bigger Smarter?](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-3/uva10131.cpp)
@@ -38,6 +40,7 @@ Problems listed on [Uhunt](https://uhunt.onlinejudge.org) marked under Competiti
 - [UVa 11566 - Let’s Yum Cha!](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-3/uva11566.cpp)
 - [UVa 357 - Let Me Count The Ways](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-3/uva357.cpp)
 - [UVa 957 - Popes](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-3/uva957.cpp)
+
 ### Chapter-5
 
 - [UVa 10110 - Light, more light](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-5/uva10110.cpp)
@@ -55,12 +58,15 @@ Problems listed on [Uhunt](https://uhunt.onlinejudge.org) marked under Competiti
 - [UVa 374 - Big Mod](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-5/uva374.cpp)
 - [UVa 543 - Goldbach's Conjecture](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-5/uva543.cpp)
 - [UVa 623 - 500!](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-5/uva623.py)
+
 ### Chapter-6
 
 - [UVa 531 - Compromise](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-6/uva531.cpp)
+
 ### Chapter-8
 
 - [UVa 12101 - Prime Path](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-8/uva12101.cpp)
+
 ### Random
 
 - [UVa 12897 - Decoding Baby Boos](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Random/uva12897.cpp)
