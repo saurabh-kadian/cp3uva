@@ -1,4 +1,4 @@
-// UVa 10334 - Ray Through Glasses
+// UVa 10334 - Ray Through Glasses *C++*
 
 // Has the problem that fibonacci numbers tend to go long and ll can't handle init
 

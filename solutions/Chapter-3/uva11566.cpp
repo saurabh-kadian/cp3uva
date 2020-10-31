@@ -1,5 +1,5 @@
-
 // UVa 11566 - Let’s Yum Cha!
+
 #include <bits/stdc++.h>
 #include <map>
 #define debug(v,len) for(long long int i=0;i<len;++i)cout<<v[i]<<" ";cout<<endl;

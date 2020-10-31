@@ -1,3 +1,5 @@
+# UVa 10334 - Ray Through Glasses *Py3*
+
 # Original Logic:
 # ll arr[1005][4] = {0};
 #
