@@ -1,6 +1,7 @@
 *.out
 doneButNoCode
 input
+*.vscode
 output
 .DS_Store
 output.out.dSYM
