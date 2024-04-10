@@ -42,6 +42,10 @@ Problems listed on [Uhunt](https://uhunt.onlinejudge.org) marked under Competiti
 - [UVa 357 - Let Me Count The Ways](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-3/uva357.cpp)
 - [UVa 957 - Popes](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-3/uva957.cpp)
 
+### Chapter-4
+
+- [UVa 12442 - Forwarding Emails](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva12442.cpp)
+
 ### Chapter-5
 
 - [UVa 10110 - Light, more light](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-5/uva10110.cpp)
