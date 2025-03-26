@@ -16,7 +16,9 @@ def _write_entry(writter, solutions_path, chapter, file, splitter):
 def generate_readme():
     with open(os.path.join(path, 'README.md'), 'w') as writter:
         writter.write('# cp3uva' + '\n')
-        writter.write('Problems listed on [Uhunt](https://uhunt.onlinejudge.org) marked under Competitive Programming 3, a book by Steven Halim and Felix Halim. Credit: Steven Halim, Felix Halim and team for the compilation.' + '\n')
+        writter.write('Problems listed on [Uhunt](https://uhunt.onlinejudge.org) marked under Competitive Programming 3, a book by Steven Halim and Felix Halim. \nCredit: Steven Halim, Felix Halim and team for the compilation.' + '\n')
+        writter.write('\n')
+        writter.write('Link to my [Uhunt ID](https://uhunt.onlinejudge.org/id/384732), inline. \n')
         writter.write('\n')
         writter.write('## Links to solved problems in the repository' + '\n')
         

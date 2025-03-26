@@ -1,5 +1,8 @@
 # cp3uva
-Problems listed on [Uhunt](https://uhunt.onlinejudge.org) marked under Competitive Programming 3, a book by Steven Halim and Felix Halim. Credit: Steven Halim, Felix Halim and team for the compilation.
+Problems listed on [Uhunt](https://uhunt.onlinejudge.org) marked under Competitive Programming 3, a book by Steven Halim and Felix Halim. 
+Credit: Steven Halim, Felix Halim and team for the compilation.
+
+Link to my [Uhunt ID](https://uhunt.onlinejudge.org/id/384732), inline. 
 
 ## Links to solved problems in the repository
 
