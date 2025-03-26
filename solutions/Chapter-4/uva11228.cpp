@@ -128,7 +128,6 @@ int main(){
     cin >> t;
     int tt = 1;
     while(t--){
-        // cout << "========================================= NEW TEST CASE =========================================" << endl;
         int nodes, radius;
         cin >> nodes >> radius;
         unordered_map<int, pair<int,int>> coords;
@@ -139,7 +138,6 @@ int main(){
         }
         vector<pair<int, int>> edgeList = makeGraphEdgeList(coords, nodes, radius);
         DSU islands = DSU(nodes);
-        // debugEdgeList(edgeList);
         for(auto edge : edgeList){
             int px = islands.find(edge.first);
             int py = islands.find(edge.second);
@@ -149,7 +147,6 @@ int main(){
         
         
         unordered_map<int, vector<int>> islandList = islands.getIslands();
-        // islands.printParent();
         int numberOfIslands = islandList.size();
         double roadNetworkCost = 0;
         for(auto kv : islandList){
