@@ -1,9 +1,8 @@
 # cp3uva
-
-Problems listed on [uHunt](https://uhunt.onlinejudge.org) marked under Competitive Programming 3, a book by Steven Halim and Felix Halim.
+Problems listed on [uHunt](https://uhunt.onlinejudge.org) marked under Competitive Programming 3, a book by Steven Halim and Felix Halim. 
 Credit: Steven Halim, Felix Halim and team for the compilation.
 
-Link to my [uHunt ID](https://uhunt.onlinejudge.org/id/384732), inline.
+Link to my [uHunt ID](https://uhunt.onlinejudge.org/id/384732), inline. 
 
 ## Links to solved problems in the repository
 
@@ -52,6 +51,7 @@ Link to my [uHunt ID](https://uhunt.onlinejudge.org/id/384732), inline.
 - [UVa 11060 - Beverages](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva11060.cpp)
 - [UVa 11080 - Place the guards](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva11080.cpp)
 - [UVa 11228 - Transportation system](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva11228.cpp)
+- [UVa 11831 - Sticket Collector Robot](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva11831.cpp)
 - [UVa 12442 - Forwarding Emails](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva12442.cpp)
 
 ### Chapter-5
@@ -59,8 +59,8 @@ Link to my [uHunt ID](https://uhunt.onlinejudge.org/id/384732), inline.
 - [UVa 10110 - Light, more light](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-5/uva10110.cpp)
 - [UVa 10140 - Prime Distance](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-5/uva10140.cpp)
 - [UVa 10235 - Simple Emirp](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-5/uva10235.cpp)
-- [UVa 10334 - Ray Through Glasses _C++_](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-5/uva10334.cpp)
-- [UVa 10334 - Ray Through Glasses _Py3_](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-5/uva10334.py)
+- [UVa 10334 - Ray Through Glasses *C++*](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-5/uva10334.cpp)
+- [UVa 10334 - Ray Through Glasses *Py3*](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-5/uva10334.py)
 - [UVa 10394 - Twin Primes](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-5/uva10394.cpp)
 - [UVa 10491 - Cows and Cars](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-5/uva10491.cpp)
 - [UVa 10759 - Dice Throwing](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-5/uva10759.cpp)

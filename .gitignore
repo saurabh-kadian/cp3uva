@@ -7,4 +7,6 @@ output
 output.out.dSYM
 *.o
 *.exe
+*in.txt
+*out.txt
 __pycache__
