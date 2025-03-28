@@ -118,7 +118,7 @@ void execute(Direction& robotDirection, Instruction& instruction, pair<int, int>
 int main(){
     int row, col, numberOfInstructions;
     cin >> row >> col >> numberOfInstructions;
-    while(row != 0 && col != 0 && numberOfInstructions != 0){
+    while(row != 0 || col != 0 || numberOfInstructions != 0){
         vector<string> grid(row);
         for(int i = 0;i < row;++i)
             cin >> grid[i];
