@@ -48,9 +48,14 @@ Link to my [uHunt ID](https://uhunt.onlinejudge.org/id/384732), inline.
 ### Chapter-4
 
 - [UVa 10004 - Bicoloring](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva10004.cpp)
+- [UVa 10048 - Audiophobia](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva10048.cpp)
+- [UVa 10369 - Arctic Network](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva10369.cpp)
+- [UVa 10600 - ACM Contest and Blackout](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva10600.cpp)
 - [UVa 11060 - Beverages](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva11060.cpp)
 - [UVa 11080 - Place the guards](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva11080.cpp)
 - [UVa 11228 - Transportation system](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva11228.cpp)
+- [UVa 11631 - Dark roads](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva11631.cpp)
+- [UVa 11747 - Heavy cycle edges](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva11747.cpp)
 - [UVa 11831 - Sticket Collector Robot](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva11831.cpp)
 - [UVa 12442 - Forwarding Emails](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva12442.cpp)
 
