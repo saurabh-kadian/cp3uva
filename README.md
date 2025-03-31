@@ -49,6 +49,7 @@ Link to my [uHunt ID](https://uhunt.onlinejudge.org/id/384732), inline.
 
 - [UVa 10004 - Bicoloring](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva10004.cpp)
 - [UVa 10048 - Audiophobia](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva10048.cpp)
+- [UVa 10305 - Ordering Tasks](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva10305.cpp)
 - [UVa 10369 - Arctic Network](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva10369.cpp)
 - [UVa 10600 - ACM Contest and Blackout](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva10600.cpp)
 - [UVa 11060 - Beverages](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva11060.cpp)
@@ -58,6 +59,7 @@ Link to my [uHunt ID](https://uhunt.onlinejudge.org/id/384732), inline.
 - [UVa 11747 - Heavy cycle edges](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva11747.cpp)
 - [UVa 11831 - Sticket Collector Robot](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva11831.cpp)
 - [UVa 12442 - Forwarding Emails](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva12442.cpp)
+- [UVa 872 - Ordering](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva872.cpp)
 
 ### Chapter-5
 
