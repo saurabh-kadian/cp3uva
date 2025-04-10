@@ -49,6 +49,7 @@ Link to my [uHunt ID](https://uhunt.onlinejudge.org/id/384732), inline.
 
 - [UVa 10004 - Bicoloring](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva10004.cpp)
 - [UVa 10048 - Audiophobia](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva10048.cpp)
+- [UVa 10171 - Meeting Prof. Miguel ...](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva10171.cpp)
 - [UVa 10305 - Ordering Tasks](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva10305.cpp)
 - [UVa 10369 - Arctic Network](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva10369.cpp)
 - [UVa 10459 - The Tree Root](https://github.com/saurabh-kadian/cp3uva/blob/master/solutions/Chapter-4/uva10459.cpp)
